@@ -1,0 +1,1233 @@
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+  .hero-image-four {
+    width: 1100px;
+  }
+  
+  .hero-text-four {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .become-button {
+    margin-left: 330px;
+  }
+  
+  .category-buttons-long {
+    margin-left: 30px;
+  }
+  
+#movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 30px;
+  width: 140px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    margin-left: 15px;
+    width: 200px;
+  }
+  
+  .hero-image-one, .hero-image-two {
+    width: 550px;
+  }
+  
+  .hero-text-one p, .hero-text-two p {
+    font-size: 25px;
+  }
+  
+  .hero-button {
+    margin-left: 180px;
+  }
+
+  #footer-info-box p {
+    margin-left: 10px;
+  }
+  
+  #popular-now-footer a, #about-square-eyes-footer a, #behind-the-scense-footer a, #custumer-service-fotter a {
+    margin-left: 50px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 1000px;
+  }
+  
+  .hero-image-about-page-four h1 {
+    padding: 0px 20px 0px 20px;
+  }
+
+  .box-one h2, .box-two h2, .box-three h2 {
+    font-size: 20px;
+  }
+  
+  .box-one li {
+    font-size: 15px;
+    margin-left: -40px;
+  }
+  
+  .box-two p, .box-two a, .box-three a {
+    font-size: 15px;
+    padding: 0px 20px 0px 20px;
+  }
+
+  .hero-image-carrer {
+    width: 1000px;
+    margin-left: 100px;
+  }
+  
+  #carrer-button {
+    margin-left: 250px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 1000px;
+  }
+
+  .collapsible {
+    width: 1100px;
+  }
+  
+  .text {
+    width: 1000px;
+  }
+
+  .hero-image-investors {
+    width: 1000px;
+    margin-left: 120px;
+  }
+  
+  #box-container-one h1, #box-container-two h1, #box-container-three h1 {
+    font-size: 20px;
+  }
+  
+  #box-container-one p, #box-container-two p, #box-container-three p {
+    font-size: 15px;
+  }
+
+  #page-headline {
+    margin-left: 300px;
+  }
+  
+  #page-headline h1 {
+    font-size: 30px;
+  }
+  
+  #page-headline p {
+    font-size: 25px;
+  }
+  
+  .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
+    margin-left: 50px;
+  }
+
+  .items-lists, .purchase-form {
+    margin-left: 100px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 300px;
+  }
+}
+
+/*MAX WITH 1200PX*/
+@media (max-width: 1200px) {
+
+  .location-header {
+    margin-left: 200px;
+  }
+  
+  .hero-image-four {
+    width: 1000px;
+  }
+  
+  .hero-text-four p {
+    font-size: 25px;
+  }
+  
+  .become-button {
+    margin-left: 270px;
+  }
+  
+  .category-buttons-long {
+    width: 250px;
+  }
+  
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+  width: 130px;
+  }
+  
+  #movie-action a, #movie-adventure a, #movies-animated a, #movie-biography a, #movie-kids a, #movie-comedy a, #movie-drama a, #movie-fantasy a, #movie-history a, #movie-horror a, #movie-indie a, #movie-mystery a, #movie-noir a, #movie-romance a {
+    font-size: 18px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    margin-left: 22px;
+    width: 165px;
+  }
+  
+  .hero-image-one, .hero-image-two {
+    width: 500px;
+  }
+  
+  .hero-text-one p, .hero-text-two p {
+    font-size: 20px;
+  }
+  
+  .hero-button {
+    margin-left: 150px;
+  }
+  
+  .hero-image-three {
+    width: 600px;
+  }
+  
+  #popular-now-footer h1, #about-square-eyes-footer h1, #behind-the-scense-footer h1, #custumer-service-fotter h1 {
+    font-size: 20px;
+  }
+  
+  #popular-now-footer a, #about-square-eyes-footer a, #behind-the-scense-footer a, #custumer-service-fotter a {
+    margin-left: 50px;
+    font-size: 15px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    margin-left: 80px;
+  }
+
+  .box-one, .box-two, .box-three {
+    width: 300px;
+  }
+  
+  .box-one h2, .box-one li {
+    padding: 0px 30px 0px 30px;
+  }
+  
+  .box-two a, .box-three a {
+    margin-left: -15px;
+  }
+
+  .hero-image-carrer {
+    margin-left: 60px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 900px;
+  }
+
+  .collapsible {
+    width: 1000px;
+  }
+  
+  .text {
+    width: 900px;
+  }
+  
+  .collaps-container-one h1, .collaps-container-two h1, .collaps-container-three h1 {
+    font-size: 30px;
+    margin-left: -100px;
+  }
+
+  .flex-container-investor {
+    display: block;
+    margin-left: 250px;
+  }
+  
+  #box-container-one, #box-container-two {
+    margin-bottom: 50px;
+  }
+
+  .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
+    margin-left: -10px;
+  }
+  
+  #page-headline {
+    margin-left: 250px;
+  }
+
+  .items-lists, .purchase-form {
+    width: 400px;
+  }
+  
+  .purchase-form h1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 200px;
+  }
+}
+
+/*MAX WITH 1150PX*/
+@media (max-width: 1150px) {
+  .category-buttons-long {
+    width: 230px;
+  }
+  
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+  width: 120px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 150px;
+  }
+
+  .flex-hero-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-image-one {
+    margin-left: 50px;
+  }
+  
+  .hero-image-two {
+    margin-left: 60px;
+  }
+  
+  .hero-image-three {
+    margin-left: 50px;
+    width: 500px;
+    margin-top: 50px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 900px;
+  }
+
+  .hero-image-investors {
+    width: 900px;
+  }
+  
+  #hero-text h1 {
+    font-size: 30px;
+  }
+  
+  #hero-text p {
+    font-size: 20px;
+  }
+
+  .movie-poster-one, .movie-poster-four, .movie-poster-seven, .movie-poster-teen, .movie-poster-thirteen, .movie-poster-sixteen {
+    margin-left: 10px;
+  }
+}
+
+/*MAX WITH 1100PX*/
+@media (max-width: 1100px) {
+  .category-buttons-long {
+    width: 215px;
+  }
+  
+  #movies-classics a, #movies-must-watch a, #movies-book-adaptations a, #movies-on-documentary a  {
+    font-size: 20px;
+  }
+  
+  .hero-image-four {
+    width: 800px;
+    margin-left: 120px;
+  }
+  
+  .hero-text-four p {
+    font-size: 25px;
+  }
+  
+  .hero-text-four h1 {
+    font-size: 35px;
+  }
+  
+  .become-button {
+    margin-left: 180px;
+  }
+  
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    width: 120px;
+    margin-left: 20px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    margin-left: 15px;
+    width: 150px;
+  }
+  
+  #movie-sci-fi a, #movie-thriller a, #movie-true-crime a, #movie-western a, #movies-ww-two a, #movie-young-adult a {
+    font-size: 18px;
+  }
+  
+  #popular-now-footer a {
+    margin-left: 30px;
+  }
+  
+  #about-square-eyes-footer a {
+    margin-left: 10px;
+  }
+  
+  #behind-the-scense-footer a {
+    margin-left: 15px;
+  }
+  
+  #custumer-service-fotter a {
+    margin-left: 40px;
+  }
+
+  .hero-image-carrer {
+    width: 800px;
+    margin-left: 80px;
+  }
+  
+  #carrer-button {
+    margin-left: 150px;
+  }
+
+  .collapsible {
+    width: 900px;
+  }
+  
+  .text {
+    width: 800px;
+    font-size: 17px;
+  }
+
+  #page-headline {
+    width: 500px;
+    margin-left: 300px;
+  }
+  
+  #page-headline h1 {
+    font-size: 25px;
+  }
+  
+  #page-headline p {
+    font-size: 20px;
+  }
+
+  .items-lists, .purchase-form {
+    margin-left: 80px;
+  }
+  
+  input {
+    width: 300px;
+  }
+  
+  .items-lists button {
+    margin-left: 100px;
+  }
+  
+  button {
+    margin-left: -20px;
+  }
+
+  .movie-poster-one, .movie-poster-three, .movie-poster-five, .movie-poster-seven, .movie-poster-nine, .movie-poster-eleven, .movie-poster-thirteen, .movie-poster-fifteen {
+    margin-left: 40px;
+  }
+  
+  #poster-button {
+    margin-left: 50px;
+  }
+}
+
+/*MAX WITH 1050PX*/
+@media (max-width: 1050px) {
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 12px;
+  }
+  
+  .category-buttons-long {
+    margin-left: 20px;
+  }
+
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 140px;
+  }
+
+  .hero-text-about-page-one h1 {
+    font-size: 30px;
+  }
+  
+  .hero-text-about-page-one p {
+    font-size: 20px;
+  }
+
+  .become-boxes-flex {
+    display: block;
+    margin-left: 230px;
+  }
+  
+  .box-one, .box-two, .box-three {
+    width: 500px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 800px;
+  }
+  
+  .hero-image-text-contact h1 {
+    font-size: 30px;
+  }
+  
+  .hero-image-text-contact p, .hero-image-text-contact a {
+    font-size: 20px;
+  }
+
+  .hero-image-investors {
+    width: 800px;
+  }
+  
+  #hero-text h1 {
+    font-size: 25px;
+  }
+  
+  #hero-text p {
+    font-size: 17px;
+  }
+
+  .movie-poster-one {
+    margin-left: 10px;
+  }
+  
+  .movie-poster-four, .movie-poster-teen, .movie-poster-sixteen {
+    margin-left: 15px;
+  }
+  
+  .movie-poster-seven, .movie-poster-thirteen {
+    margin-left: 20px;
+  }
+
+  .items-lists, .purchase-form {
+    width: 350px;
+  }
+  
+  input {
+    width: 250px;
+  }
+  
+  .purchase-form h1, .items-lists h1 {
+    font-size: 25px;
+  }
+  
+  button {
+    margin-left: -40px;
+  }
+  
+  .items-lists button {
+    margin-left: 70px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 120px;
+  }
+
+  .movie-poster-one, .movie-poster-seven, .movie-poster-thirteen {
+    margin-left: 40px;
+  }
+  
+  #poster-button {
+    margin-left: 80px;
+  }
+}
+
+/*MAX WITH 1000PX*/
+@media (max-width: 1000px) {
+  .hero-image-four {
+    width: 750px;
+    margin-left: 100px;
+  }
+  
+  .become-button {
+    margin-left: 130px;
+  }
+  
+  .category-buttons-long {
+    width: 200px;
+  }
+  
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    width: 100px;
+    margin-left: 20px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 130px;
+  }
+  
+  .flex-hero-container {
+    margin-left: -20px;
+  }
+
+  .become-a-member-form {
+    width: 700px;
+  }
+  
+  label {
+    width: 200px;
+    font-size: 20px;
+  }
+
+  .hero-image-carrer {
+    width: 700px;
+  }
+
+  #carrer-button {
+    margin-top: -5px;
+    margin-left: 110px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 700px;
+  }
+
+  .collapsible {
+    width: 800px;
+  }
+  
+  .text {
+    width: 700px;
+    text-align: center;
+  }
+
+  .hero-image-investors {
+    margin-left: 50px;
+  }
+
+  #page-headline {
+    width: 400px;
+    margin-left: 220px;
+  }
+}
+
+/*MAX WITH 920PX*/
+@media (max-width: 920px) {
+
+  .location-header img, #sale-icon-header img, #map-icon-header img, #contact-icon-header img {
+    width: 40px;
+    height: 40px;
+  }
+
+  #sale-icon-header, #header-centre, #map-icon-header, #contact-icon-header {
+    margin-left: 30px;
+  }
+
+  .location-header {
+    margin-left: 150px;
+  }
+  
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 10px;
+  }
+  
+  .category-buttons-long {
+    width: 170px;
+  }
+  
+  #movies-classics a, #movies-must-watch a, #movies-book-adaptations a, #movies-on-documentary a, #movie-sci-fi a, #movie-thriller a, #movie-true-crime a, #movie-western a, #movies-ww-two a, #movie-young-adult a, #movie-action a, #movie-adventure a, #movies-animated a, #movie-biography a, #movie-kids a, #movie-comedy a, #movie-drama a, #movie-fantasy a, #movie-history a, #movie-horror a, #movie-indie a, #movie-mystery a, #movie-noir a, #movie-romance a {
+    font-size: 15px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 120px;
+  }
+  
+  .hero-image-four {
+    width: 700px;
+    margin-left: 100px;
+  }
+  
+  .hero-text-four h1 {
+    font-size: 30px;
+    padding-top: 20px;
+  }
+  
+  .hero-text-four p {
+    font-size: 20px;
+    padding: 20px 40px 0px 40px;
+  }
+  
+  .become-button {
+    margin-top: 30px;
+    margin-left: 120px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 700px;
+  }
+
+  .become-boxes-flex {
+    margin-left: 150px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 600px;
+  }
+
+  .flex-container-investor {
+    margin-left: 150px;
+  }
+
+  .items-lists, .purchase-form {
+    margin-left: 50px;
+  }
+
+  .succesful-cart-conatiner {
+    width: 600px;
+  }
+}
+
+/*MAX WITH 900PX*/
+@media (max-width: 900px) {
+  .collapsible {
+    width: 700px;
+  }
+  
+  .text {
+    width: 600px;
+  }
+
+  .hero-image-investors {
+    width: 700px;
+  }
+
+  .items-lists, .purchase-form {
+    width: 300px;
+  }
+}
+
+/*MAX WITH 850PX*/
+@media (max-width: 850px) {
+  .hero-image-four {
+    width: 600px;
+    margin-left: 100px;
+  }
+  
+  .become-button {
+    width: 200px;
+    height: 50px;
+    margin-left: 170px;
+  }
+  
+  .become-button a {
+    font-size: 15px;
+  }
+  
+  .category-buttons-long {
+    width: 150px;
+  }
+  
+  #movie-sci-fi, #movie-thriller, #movie-true-crime, #movie-western, #movies-ww-two, #movie-young-adult {
+    width: 110px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 600px;
+  }
+  
+  .hero-text-about-page-one h1 {
+    font-size: 20px;
+  }
+  
+  .hero-text-about-page-one p {
+    font-size: 15px;
+  }
+
+  .become-a-member-form {
+    width: 600px;
+  }
+  
+  input {
+    width: 300px;
+  }
+  
+  .formbutton {
+    width: 200px;
+    margin-left: 150px;
+  }
+  
+  .become-boxes-flex {
+    margin-left: 120px;
+  }
+
+  .hero-image-carrer {
+    width: 600px;
+  }
+  
+  #hero-text h1 {
+    font-size: 25px;
+  }
+  
+  #hero-text p {
+    font-size: 15px;
+  }
+  
+  #carrer-button a {
+    font-size: 20px;
+  }
+  
+  #carrer-button {
+    margin-top: 30px;
+    margin-left: 130px;
+    width: 350px;
+    height: 50px;
+  }
+
+  input {
+    width: 200px;
+  }
+  
+  .items-lists button, button {
+    width: 150px;
+    font-size: 20px;
+  }
+
+  .succesful-cart-conatiner {
+    width: 550px;
+  }
+
+  #poster-button {
+    margin-left: 60px;
+  }
+
+  #trade-text h1 {
+    font-size: 25px;
+  }
+  
+  #trade-text p {
+    font-size: 15px;
+  }
+}
+
+/*MAX WITH 800PX*/
+@media (max-width: 800px) {
+
+  .location-header {
+    margin-left: 100px;
+  }
+
+  #movie-action, #movie-adventure, #movies-animated, #movie-biography, #movie-kids, #movie-comedy, #movie-drama, #movie-fantasy, #movie-history, #movie-horror, #movie-indie, #movie-mystery, #movie-noir, #movie-romance {
+    margin-left: 30px;
+  }
+  
+  .hero-image-four {
+    width: 500px;
+    margin-left: 130px;
+  }
+  
+  .become-button {
+    margin-left: 120px;
+  }
+  
+  #footer-info-box {
+    display: none;
+  }
+  
+  #popular-now-footer {
+    margin-left: -15px;
+    margin-bottom: 50px;
+  }
+  
+  .hero-text-one h1, .hero-text-two h1 {
+    font-size: 30px;
+  }
+  
+  .hero-text-two p, .hero-text-one p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .become-boxes-flex {
+    margin-left: 100px;
+  }
+
+  .become-a-member-form {
+    width: 550px;
+  }
+  
+  .become-a-member-form h1 {
+    font-size: 30px;
+  }
+  
+  label {
+    font-size: 15px;
+    width: 150px;
+  }
+  
+  input {
+    width: 300px;
+  }
+  
+  .formbutton {
+    margin-top: -20px;
+    margin-left: 130px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 500px;
+  }
+
+  .collapsible {
+    width: 600px;
+  }
+  
+  .text {
+    width: 500px;
+  }
+
+  .hero-image-investors {
+    width: 650px;
+  }
+  
+  #hero-text h1 {
+    padding: 0px 20px 0px 20px;
+  }
+  
+  #hero-text p {
+    padding-bottom: 20px;
+  }
+  
+  .flex-container-investor {
+    margin-left: 100px;
+  }
+
+  .movie-poster-three, .movie-poster-five, .movie-poster-seven, .movie-poster-nine, .movie-poster-eleven, .movie-poster-thirteen, .movie-poster-fifteen {
+    margin-left: 10px;
+  }
+
+  input {
+    width: 200px;
+  }
+
+  .movie-poster-one {
+    margin-left: 10px;
+  }
+}
+
+/*MAX WITH 740PX*/
+@media (max-width: 740px) {
+  .hero-image-investors {
+    width: 550px;
+  }
+
+  #page-headline {
+    margin-left: 170px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 150px;
+  }
+
+  .cart-page-container-thing {
+    flex-direction: column;
+    align-items:center;
+  }
+
+  .succesful-cart-conatiner {
+    width: 450px;
+  }
+  
+  .succesful-cart-conatiner h1 {
+    font-size: 25px;
+  }
+  
+  .succesful-cart-conatiner p {
+    font-size: 18px;
+  }
+}
+
+/*MAX WITH 700PX*/
+@media (max-width: 700px) {
+  
+  .location-header {
+    margin-left: 130px;
+  }
+
+  .location-header img, #sale-icon-header img, #map-icon-header img, #contact-icon-header img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .location-header img, #sale-icon-header img, #map-icon-header img {
+    margin-top: 20px;
+  }
+
+  #contact-icon-header img {
+    margin-top: 25px;
+  }
+
+  #sale-icon-header, #header-centre, #map-icon-header, #contact-icon-header {
+    margin-left: 20px;
+  }
+
+  #header-centre img {
+    width: 120px;
+    height: 75px;
+    margin-top: 20px;
+  }
+  
+  .hero-image-four {
+    margin-left: 100px;
+  }
+  
+  .category-buttons-long {
+    width: 140px;
+  }
+  
+  #about-square-eyes-footer a {
+    margin-left: 40px;
+  }
+  
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 500px;
+  }
+
+  .box-one, .box-two, .box-three {
+    width: 300px;
+  }
+  
+  .box-one h2, .box-two h2, .box-three h2 {
+    font-size: 18px;
+  }
+  
+  .box-two h2, .box-three h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .box-one {
+    height: 300px;
+  }
+  
+  .box-two {
+    height: 200px;
+  }
+  
+  .box-three {
+    height: 150px;
+  }
+
+  .hero-image-carrer {
+    width: 500px;
+  }
+  
+  #carrer-button {
+    margin-left: 80px;
+  }
+
+  .collapsible {
+    width: 500px;
+  }
+  
+  .text {
+    width: 400px;
+    font-size: 15px;
+  }
+
+  .flex-container-investor {
+    margin-left: 50px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 80px;
+  }
+}
+
+/*MAX WITH 650PX*/
+@media (max-width: 650px) {
+  .hero-image-four {
+    width: 500px;
+    margin-left: 70px;
+  }
+  
+  .category-buttons-long {
+    width: 130px;
+  }
+  
+  .category-last-buttons {
+    display: none;
+  }
+  
+  .flex-hero-container {
+    margin-left: -30px;
+  }
+  
+  #popular-now-footer a, #about-square-eyes-footer a, #behind-the-scense-footer a, #custumer-service-fotter a {
+    font-size: 12px;
+  }
+  
+  #popular-now-footer h1, #about-square-eyes-footer h1, #behind-the-scense-footer h1, #custumer-service-fotter h1 {
+    font-size: 15px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    margin-left: 50px;
+  }
+
+  .become-a-member-form {
+    width: 450px;
+  }
+  
+  input {
+    width: 200px;
+  }
+  
+  .formbutton {
+    margin-left: 60px;
+  }
+
+  .hero-image-carrer {
+    width: 450px;
+  }
+  
+  #hero-text h1 {
+    font-size: 20px;
+  }
+  
+  #carrer-button a {
+    font-size: 15px;
+  }
+  
+  #carrer-button {
+    width: 220px;
+    margin-left: 110px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 450px;
+    margin-left: 70px;
+  }
+
+  .hero-image-investors {
+    width: 500px;
+  }
+
+  #page-headline {
+    margin-left: 130px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 120px;
+  }
+
+  #trade-text h1 {
+    font-size: 20px;
+  }
+}
+
+/*MAX WITH 600PX*/
+@media (max-width: 600px) {
+  .category-buttons-long {
+    display: none;
+  }
+  
+  .hero-image-four {
+    width: 450px;
+    margin-left: 50px;
+  }
+  
+  .hero-text-four h1 {
+    font-size: 25px;
+  }
+  
+  .hero-text-four p, .become-button a {
+    font-size: 15px;
+  }
+  
+  .become-button {
+    margin-left: 100px;
+  }
+
+  .location-header {
+    margin-left: 80px;
+  }
+
+  .hero-image-about-page-one, .hero-image-about-page-two, .hero-image-about-page-three, .hero-image-about-page-four, .hero-image-about-page-five {
+    width: 400px;
+  }
+
+  .hero-image-carrer {
+    margin-left: 50px;
+  }
+
+  .hero-image-contact-page, .hero-image-contact-page-one, .hero-image-contact-page-two, .hero-image-contact-page-five, .hero-image-contact-page-three, .hero-image-contact-page-four, .hero-image-contact-page-six {
+    width: 400px;
+    margin-left: 50px;
+  }
+
+  .collapsible {
+    width: 450px;
+  }
+  
+  .text {
+    width: 360px;
+  }
+  
+  .collaps-container-one h1, .collaps-container-two h1, .collaps-container-three h1 {
+    font-size: 25px;
+    margin-left: -20px;
+  }
+
+  .hero-image-investors {
+    width: 450px;
+  }
+
+  .flex-container-investor {
+    margin-left: 0px;
+  }
+
+  #page-headline {
+    margin-left: 100px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 100px;
+  }
+
+  .succesful-cart-conatiner {
+    width: 400px;
+  }
+}
+
+/*MAX WITH 550PX*/
+@media (max-width: 550px) {
+  .hero-image-one, .hero-image-two, .hero-image-three {
+     width: 450px;
+     margin-left: 50px;
+  }
+  
+  .hero-button {
+    margin-left: 120px;
+  }
+  
+  #about-square-eyes-footer {
+    display: none;
+  }
+
+  .become-boxes-flex {
+    margin-left: 80px;
+  }
+
+  .hero-image-carrer {
+    margin-left: 30px;
+  }
+
+  .hero-image-investors {
+    margin-left: 30px;
+  }
+
+  #page-headline {
+    margin-left: 60px;
+  }
+  
+  #page-headline h1 {
+    font-size: 20px;
+  }
+  
+  #page-headline p {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .movie-poster-one, .movie-poster-two, .movie-poster-three, .movie-poster-four, .movie-poster-five, .movie-poster-six, .movie-poster-seven, .movie-poster-eight, .movie-poster-nine, .movie-poster-teen, .movie-poster-eleven, .movie-poster-twelve, .movie-poster-thirteen, .movie-poster-fourteen, .movie-poster-fifteen, .movie-poster-sixteen {
+    margin-left: 60px;
+  }
+
+  .succesful-cart-conatiner {
+    margin-left: 50px;
+  }
+}
