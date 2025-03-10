@@ -1,5 +1,5 @@
 # Square-Eyes-Project
-[GitHub Pages Link](https://darthcoursucant.github.io/Square-Eyes-Project/)
+[GitHub Pages Link](https://akb-official.github.io/Square-Eyes/)
 
 ## Created With
     - HTML 
